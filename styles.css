@@ -1,0 +1,41 @@
+body{
+    background-color: whitesmoke;
+}
+.navBar{
+    border:solid black;
+    display:flex;
+    margin:1em;
+    height:100px;
+    position: relative;
+
+}
+
+.navElement{
+    border:violet solid;
+    margin:1em;
+    height:50px;
+    width:100px;
+
+}
+
+.displayHeader{
+    border:solid aqua;
+    margin:1em;
+    height:300px
+    
+}
+
+.featuredProd{
+    border:solid blue;
+    margin:1em;
+    height:220px;
+}
+
+.swiper{
+    border:solid brown;
+    margin:1em;
+    display:flex;
+    height:300px;
+}
+
+
