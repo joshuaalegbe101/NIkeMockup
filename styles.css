@@ -2,19 +2,34 @@ body{
     background-color: whitesmoke;
 }
 .navBar{
-    border:solid black;
+    /*border:solid black;*/
     display:flex;
-    margin:1em;
+    margin:0em;
     height:100px;
+    /*justify-content:flex-start;*/
     
 
 }
 
-.navElement{
+.navLogo{
+    border:solid black;
+    margin:1em;
+    height:55px;
+    width:90px;
+}
+
+.navButtons{
+    border: darkorchid solid;
+    margin:1em;
+    height:100px;
+    width:300px;
+    flex-flow:row wrap;
+}
+.navIcons{
     border:violet solid;
     margin:1em;
     height:50px;
-    width:100px;
+    width:30px;
 
 }
 
