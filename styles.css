@@ -7,10 +7,12 @@ body{
     margin:0em;
     height:100px;
     /*justify-content:flex-start;*/
-    
-
 }
 
+.swoosh{
+    width:20px;
+    margin-right:auto;
+}
 .navLogo{
     border:solid black;
     margin:1em;
@@ -24,6 +26,7 @@ body{
     height:100px;
     width:300px;
     flex-flow:row wrap;
+    margin-left:auto;
 }
 .navIcons{
     border:violet solid;
